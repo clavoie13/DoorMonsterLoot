@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 60b328650e76db24086d3d10a4ec874d
+timeCreated: 1459703107
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: floor1
+    21300002: wall1
+    21300004: floor2
+    21300006: background1
+    21300008: background2
+    21300010: background3
+    21300012: door1
+    21300014: door2
+    21300016: window1
+    21300018: window2
+    21300020: door3
+    21300022: door4
+    21300024: hero1
+    21300026: hero2
+    21300028: hero3
+    21300030: hero4
+    21300032: hero5
+    21300034: one
+    21300036: two
+    21300038: Test
+    21300040: spriteSheet1_0
+    21300042: Coin
+    21300044: boulder1
+    21300046: spriteSheet1_1
+    21300048: Penvert1
+    21300050: Penvert2
+    21300052: Penvert3
+    21300054: Penvert4
+    21300056: particuleDePorte
+    21300058: particule_rock
+    21300060: spriteSheet1_2
+    21300062: spriteSheet1_3
+    21300064: spriteSheet1_4
+    21300066: spriteSheet1_5
+    21300068: spriteSheet1_6
+    21300070: spriteSheet1_7
+    21300072: spriteSheet1_8
+    21300074: spriteSheet1_9
+    21300076: spriteSheet1_10
+    21300078: spriteSheet1_11
+    21300080: spriteSheet1_12
+    21300082: spriteSheet1_13
+    21300084: spriteSheet1_14
+    21300086: three
+    21300088: spriteSheet1_15
+    21300090: spriteSheet1_16
+    21300092: spriteSheet1_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 21
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: floor1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 439
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: wall1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 416
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: floor2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 416
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: background1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 140
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: background2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 117
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: background3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: door1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 140
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: door2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 117
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: window1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: window2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: door3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: door4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 25
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: hero5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 669
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: one
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: two
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Test
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 577
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 555
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coin
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 628
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: boulder1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 117
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 531
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Penvert1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 509
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Penvert2
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 509
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Penvert3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 486
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Penvert4
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 486
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: particuleDePorte
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 180
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: particule_rock
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 119
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 395
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 397
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 397
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 397
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 397
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 373
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 531
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 94
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 669
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 669
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 669
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 669
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 669
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: three
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 416
+        width: 3
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 352
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 95d45128db7666e40b3e31246a880218
+timeCreated: 1455135960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roguelikeSheet_transparent_1
+    21300002: roguelikeSheet_transparent_0
+    21300004: roguelikeSheet_transparent_2
+    21300006: roguelikeSheet_transparent_3
+    21300008: roguelikeSheet_transparent_4
+    21300010: gold1
+    21300012: gold2
+    21300014: gold3
+    21300016: gold4
+    21300018: gold5
+    21300020: gold6
+    21300022: closed_chest
+    21300024: opened_chest
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 14
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roguelikeSheet_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roguelikeSheet_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 460
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roguelikeSheet_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roguelikeSheet_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 494
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: roguelikeSheet_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 476
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold5
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gold6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: closed_chest
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: opened_chest
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
